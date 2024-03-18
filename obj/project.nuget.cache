@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msJwEaTa11Q+ZNLnvXzQyCFvcioQY9kAtHBCvGB+Y9izHJ9akp2KedtD+/1oPaLcoCQ98oW75bITs/i5gFpdug==",
+  "dgSpecHash": "39LKXcTze4OIoLobQ1G4/HDM4NtXtcC9toL4whbp5N9b5DDEORoewDmRssGRRp4CJ1Bq3uWa0HroAnCP6PhRbw==",
   "success": true,
-  "projectFilePath": "D:\\TeioTechProjects\\FoodAPI\\FoodAPI.csproj",
+  "projectFilePath": "D:\\TeioTechProjects\\TrioFoodAPI\\FoodAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

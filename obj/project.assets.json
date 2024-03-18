@@ -2342,11 +2342,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TeioTechProjects\\FoodAPI\\FoodAPI.csproj",
+      "projectUniqueName": "D:\\TeioTechProjects\\TrioFoodAPI\\FoodAPI.csproj",
       "projectName": "FoodAPI",
-      "projectPath": "D:\\TeioTechProjects\\FoodAPI\\FoodAPI.csproj",
+      "projectPath": "D:\\TeioTechProjects\\TrioFoodAPI\\FoodAPI.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\TeioTechProjects\\FoodAPI\\obj\\",
+      "outputPath": "D:\\TeioTechProjects\\TrioFoodAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
