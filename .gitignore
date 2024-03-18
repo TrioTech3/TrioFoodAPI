@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FoodAPI/FileContentIndex/003d0a5f-b103-459f-9b54-031aacfe0319.vsidx
+/obj/Debug/net8.0/FoodAPI.AssemblyInfo.cs
+/obj/Debug/net8.0/FoodAPI.AssemblyInfoInputs.cache
+*.vsidx
